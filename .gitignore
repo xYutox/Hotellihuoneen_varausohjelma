@@ -40,5 +40,9 @@
 # debug information files
 *.dwo
 
-#
-.vs
+# Visual Studio files
+.vs/
+x64/
+
+# JSON files
+*.json
